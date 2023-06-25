@@ -7,6 +7,7 @@
 
 .sec h1{
     text-align: center;
+    padding-bottom:22px;
 }
 
 .sec{
@@ -46,4 +47,15 @@
 
 .content-p{
     font-size: 17px;
+}
+
+.swiper-backface-hidden .swiper-slide {
+    transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    text-align: center;
+    width:80%;
+    font-weight: bolder;
+   line-height: 40px;
+   
 }
