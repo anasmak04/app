@@ -1,0 +1,38 @@
+.parent-section-2 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(218,192,184);
+
+}
+
+.faq{
+  width:80%;
+  margin-left:10%;
+  margin-bottom: 20px;
+}
+
+
+
+.styles_faq-row-wrapper__3vA1D .styles_faq-row__2YF3c {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+  background-color:  rgb(211, 188, 182);
+  margin:0 auto;
+  display:block;
+}
+
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.styles_faq-row-wrapper__3vA1D .styles_row-body__1NvUo .styles_faq-row__2YF3c {
+  flex-direction: column;
+  position: relative;
+  background-color:  rgb(211, 188, 182);
+}
